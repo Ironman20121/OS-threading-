@@ -4,5 +4,5 @@ cmake_minimum_required(VERSION 3.10)
 project(OS_pro_assignment)
 
 # executable
-add_executable(pro main.cxx)
+add_executable(pro src/main.cxx)
 

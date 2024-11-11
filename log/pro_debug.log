@@ -1,0 +1,111 @@
+[STUDENT THREAD] Student 1 is coming!
+[STUDENT THREAD] Student 1 wakes up TA!
+[STUDENT THREAD] student 1 done with work going bye
+[TA THREAD] No students waiting. TA goes back to sleep.
+count :::0[STUDENT THREAD] Student 2 is coming!
+[STUDENT THREAD] Student 2 wakes up TA!
+[STUDENT THREAD] student 2 done with work going bye
+[TA THREAD] No students waiting. TA goes back to sleep.
+count :::1[STUDENT THREAD] Student 3 is coming!
+[STUDENT THREAD] Student 3 wakes up TA!
+[STUDENT THREAD] student 3 done with work going bye
+[TA THREAD] No students waiting. TA goes back to sleep.
+count :::1[STUDENT THREAD] Student 4 is coming!
+[STUDENT THREAD] Student 4 wakes up TA!
+[STUDENT THREAD] student 4 done with work going bye
+[TA THREAD] No students waiting. TA goes back to sleep.
+count :::1[STUDENT THREAD] Student 5 is coming!
+[STUDENT THREAD] Student 5 wakes up TA!
+[STUDENT THREAD] student 5 done with work going bye
+[TA THREAD] No students waiting. TA goes back to sleep.
+count :::1[STUDENT THREAD] Student 6 is coming!
+[STUDENT THREAD] Student 6 wakes up TA!
+[STUDENT THREAD] student 6 done with work going bye
+[TA THREAD] No students waiting. TA goes back to sleep.
+count :::0[STUDENT THREAD] Student 7 is coming!
+[STUDENT THREAD] Student 7 wakes up TA!
+[STUDENT THREAD] student 7 done with work going bye
+[STUDENT THREAD] Student 8 is coming!
+[STUDENT THREAD] Student 8 is seated on a waiting chair. Waiting students = 1
+[TA THREAD] TA is helping a student...
+[TA THREAD] TA is done helping a student!
+[TA THREAD] Waiting students = 0
+[TA THREAD] No students waiting. TA goes back to sleep.
+count :::0[STUDENT THREAD] Student 9 is coming!
+[STUDENT THREAD] Student 9 wakes up TA!
+[STUDENT THREAD] student 9 done with work going bye
+[TA THREAD] No students waiting. TA goes back to sleep.
+count :::0[STUDENT THREAD] Student 10 is coming!
+[STUDENT THREAD] Student 10 wakes up TA!
+[STUDENT THREAD] student 10 done with work going bye
+[TA THREAD] No students waiting. TA goes back to sleep.
+count :::0[STUDENT THREAD] Student 11 is coming!
+[STUDENT THREAD] Student 11 wakes up TA!
+[STUDENT THREAD] student 11 done with work going bye
+[STUDENT THREAD] Student 13 is coming!
+[STUDENT THREAD] Student 13 is seated on a waiting chair. Waiting students = 1
+[STUDENT THREAD] Student 14 is coming!
+[STUDENT THREAD] Student 14 is seated on a waiting chair. Waiting students = 2
+[STUDENT THREAD] Student 15 is coming!
+[STUDENT THREAD] Student 15 finds no chairs available and will come back later.
+TA :::: 0waiting_student_counter :::: 2
+[STUDENT THREAD] Student 16 is coming!
+[STUDENT THREAD] Student 16 finds no chairs available and will come back later.
+TA :::: 0waiting_student_counter :::: 2
+[STUDENT THREAD] Student 17 is coming!
+[STUDENT THREAD] Student 17 finds no chairs available and will come back later.
+TA :::: 0waiting_student_counter :::: 2
+[STUDENT THREAD] Student 19 is coming!
+[STUDENT THREAD] Student 19 finds no chairs available and will come back later.
+TA :::: 0waiting_student_counter :::: 2
+[STUDENT THREAD] Student 20 is coming!
+[STUDENT THREAD] Student 20 finds no chairs available and will come back later.
+TA :::: 0waiting_student_counter :::: 2
+[STUDENT THREAD] Student 12 is coming!
+[STUDENT THREAD] Student 12 finds no chairs available and will come back later.
+TA :::: 0waiting_student_counter :::: 2
+[TA THREAD] TA is helping a student...
+[TA THREAD] TA is done helping a student!
+[TA THREAD] Waiting students = 1
+[TA THREAD] TA is helping a student...
+[TA THREAD] TA is done helping a student!
+[TA THREAD] Waiting students = 0
+[TA THREAD] No students waiting. TA goes back to sleep.
+count :::0[STUDENT THREAD] Student 16 is coming!
+[STUDENT THREAD] Student 16 wakes up TA!
+[STUDENT THREAD] student 16 done with work going bye
+[TA THREAD] No students waiting. TA goes back to sleep.
+count :::0[STUDENT THREAD] Student 17 is coming!
+[STUDENT THREAD] Student 17 wakes up TA!
+[STUDENT THREAD] student 17 done with work going bye
+[STUDENT THREAD] Student 20 is coming!
+[STUDENT THREAD] Student 20 is seated on a waiting chair. Waiting students = 1
+[STUDENT THREAD] Student 18 is coming!
+[STUDENT THREAD] Student 18 is seated on a waiting chair. Waiting students = 2
+[STUDENT THREAD] Student 15 is coming!
+[STUDENT THREAD] Student 15 finds no chairs available and will come back later.
+TA :::: 0waiting_student_counter :::: 2
+[STUDENT THREAD] Student 19 is coming!
+[STUDENT THREAD] Student 19 finds no chairs available and will come back later.
+TA :::: 0waiting_student_counter :::: 2
+[TA THREAD] TA is helping a student...
+[TA THREAD] TA is done helping a student!
+[TA THREAD] Waiting students = 1
+[TA THREAD] TA is helping a student...
+[TA THREAD] TA is done helping a student!
+[TA THREAD] Waiting students = 0
+[TA THREAD] No students waiting. TA goes back to sleep.
+count :::0[STUDENT THREAD] Student 19 is coming!
+[STUDENT THREAD] Student 19 wakes up TA!
+[STUDENT THREAD] student 19 done with work going bye
+[TA THREAD] No students waiting. TA goes back to sleep.
+count :::0[STUDENT THREAD] Student 12 is coming!
+[STUDENT THREAD] Student 12 wakes up TA!
+[STUDENT THREAD] student 12 done with work going bye
+[TA THREAD] No students waiting. TA goes back to sleep.
+count :::0[STUDENT THREAD] Student 15 is coming!
+[STUDENT THREAD] Student 15 wakes up TA!
+[STUDENT THREAD] student 15 done with work going bye
+[TA THREAD] No students waiting. TA goes back to sleep.
+count :::0[TA THREAD] No students waiting. TA goes back to sleep.
+count :::10[TA THREAD] No students for 10 seconds. TA is exiting.
